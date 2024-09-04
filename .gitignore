@@ -1,4 +1,6 @@
 .venv
 *pdf
-*txt
+avx.txt
+avx2.txt
+normal.txt
 matmul*
