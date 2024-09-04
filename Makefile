@@ -1,7 +1,3 @@
-#ifndef SIZE
-  #define SIZE 512
-#endif
-
 CC = g++
 CFLAGS = -std=c++17 -g -march=native
 
